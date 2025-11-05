@@ -33,3 +33,5 @@ All datasets were downloaded directly from their Kaggle repositories and extract
 
 - **LinCE-SA (Linguistic Code-switching Evaluation)** – [Kaggle link](https://www.kaggle.com/datasets/thedevastator/unlock-universal-language-with-the-lince-dataset)  
   → The sentiment analysis subset (`sa_spaeng_*.csv`) was extracted and combined into a unified validation set for multilingual evaluation.
+
+[Link](https://drive.google.com/file/d/12VXi1jZN8ij1xtr-kvtk95BXILfbyHWK/view?usp=drive_link) to full data zip in Google drive
